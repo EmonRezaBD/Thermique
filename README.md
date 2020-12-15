@@ -1,5 +1,5 @@
 ## This codebase was cloned from groupgets, and modified for personal necessities.
-
+**Project is ongoing
 
 ## raspberrypi_video [Edited]
 
