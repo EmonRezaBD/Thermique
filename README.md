@@ -1,5 +1,6 @@
 ## This codebase was cloned from groupgets, and modified for personal necessities.
 ## Project is ongoing
+#Link : https://mist.ac.bd/blog/cse/post/thermique_temperature_detection_using_thermal_image_for_covid_19_screening-149
 
 ## raspberrypi_video [Edited]
 
