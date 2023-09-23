@@ -1,4 +1,10 @@
 ## This codebase was cloned from groupgets, and modified for personal necessities.
+# Data Analyzer MFC App
+![GitHub Repo stars](https://img.shields.io/github/stars/EmonRezaBD/Data-Analyzer)![GitHub repo size](https://img.shields.io/github/repo-size/EmonRezaBD/Data-Analyzer?color=red) 
+Before Scan            |  After Scan
+:-------------------------:|:-------------------------:
+![Fig. 1](https://github.com/EmonRezaBD/Thermique/blob/main/Before%20scan.png) | ![Fig. 2](hhttps://github.com/EmonRezaBD/Thermique/blob/main/After%20scan.png)
+
 ## Project is ongoing
 #Link : https://mist.ac.bd/blog/cse/post/thermique_temperature_detection_using_thermal_image_for_covid_19_screening-149
 
