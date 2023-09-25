@@ -3,12 +3,21 @@
 Before Scan            |  After Scan
 :-------------------------:|:-------------------------:
 ![Fig. 1](https://github.com/EmonRezaBD/Thermique/blob/main/BeforeScan.PNG) | ![Fig. 2](https://github.com/EmonRezaBD/Thermique/blob/main/AfterSacn.PNG)
-. | kkkk
+User is waiting for the forehead to detect | Scanning the RFID card and temperature from forehead is showing instantly
 
-This codebase was cloned from groupgets, and modified for personal necessities.
+This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [ICCA 2022](https://www.aiub.edu/2nd-international-conference-on-computing-advancements---icca-2022) <br>
+It is accepted in ICCA 2022 and available in ACM Digital Library. For reading the full article visit here : <code>[https://doi.org/10.1145/3542954.3542978](https://dl.acm.org/doi/abs/10.1145/3542954.3542978)</code>
 
-#Link : https://mist.ac.bd/blog/cse/post/thermique_temperature_detection_using_thermal_image_for_covid_19_screening-149
-## raspberrypi_video [Edited]
+## Table of Contents 
+The repository is organized as follow:
+* <code>docs</code>contains few necessary documents
+* <code>software</code>contains all the source files for using Lepton module and its interfaces
+## Achievements
+* It is featured in departmental blog <code>[Read here](https://mist.ac.bd/blog/cse/post/thermique_temperature_detection_using_thermal_image_for_covid_19_screening-149)</code>
+* 
+
+## This codebase was cloned from groupgets, and modified for personal necessities.
+raspberrypi_video [Edited]
 
 0. This is for raspberrypi_video only. raspberrypi_qt was not used in final production.
 1. Enable I2C and SPI
@@ -49,3 +58,16 @@ make sdkclean && make distclean
 ```
 
 10. Press 'r' on keyboard for FFC reset.
+
+## BibTeX Citation
+
+If you use this article, we would appreciate using the following citations:
+```
+@inproceedings{reza2022thermique,
+  title={Thermique: An Integrated AI-Based Temperature Sensing and Management System to Hold Back COVID-19 Contamination},
+  author={Reza, Md Rokonuzzaman and Saleh, Shaqran Bin and Fatema, Tashfia and Hasan, Ishraq and Bin Munir, Muhaimin and Rabbi, Md Fazle},
+  booktitle={Proceedings of the 2nd International Conference on Computing Advancements},
+  pages={156--164},
+  year={2022}
+}
+```
