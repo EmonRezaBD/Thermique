@@ -17,7 +17,7 @@ The repository is organized as follow:
 * <code>software</code>contains all the source files for using Lepton module and its interfaces
 ## Achievements
 * It is featured in departmental blog <code>[Read here](https://mist.ac.bd/blog/cse/post/thermique_temperature_detection_using_thermal_image_for_covid_19_screening-149)</code>
-* 
+* 2nd Runner up in Tri-Robo-Cup <code>[2nd Runner Up](https://drive.google.com/drive/folders/1kXqljB_Btp_ZOUDGFURbKNz83vuLNIpN)
 
 ## This codebase was cloned from groupgets, and modified for personal necessities.
 raspberrypi_video [Edited]
