@@ -7,6 +7,9 @@ User is waiting for the forehead to detect | Scanning the RFID card and temperat
 
 This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [ICCA 2022](https://www.aiub.edu/2nd-international-conference-on-computing-advancements---icca-2022) <br>
 It is accepted in ICCA 2022 and available in ACM Digital Library. For reading the full article visit here : <code>[https://doi.org/10.1145/3542954.3542978](https://dl.acm.org/doi/abs/10.1145/3542954.3542978)</code>
+## Abstract
+In the advent of a global pandemic, the necessity for early COVID 19 suspect detection and quarantine is of paramount importance. Medical research indicates that a high fever provides a general litmus of whether or not a person is infected with Coronavirus. Among several available solutions, thermal imaging has proven to be a better contactless screening procedure. It enables fast and easy detection of fever from a reasonable distance. In this research, a solution named Thermique is proposed. It is a cheap, easy to mass produce, and automated AI-enabled thermal screening platform that combines facial detection, instant contactless temperature scanning, and RFID logging, while also providing an integrated defense against the spread of COVID-19 in a particular facility. Consisting of only off-the-shelf electronic components, this solution can be implemented with a significantly minimized cost, compared to its similar-function providing alternatives available on the market. To design and implement Thermique, a system architecture was developed for the platform, the details of which are highlighted within this paper. After the development of the prototype, several analytical evaluations of the system have been conducted, including
+the system’s performance, and overall usability.
 
 ## Table of Contents 
 The repository is organized as follow:
