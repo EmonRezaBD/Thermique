@@ -1,13 +1,13 @@
-## This codebase was cloned from groupgets, and modified for personal necessities.
-# Data Analyzer MFC App
+# Thermique
 ![GitHub Repo stars](https://img.shields.io/github/stars/EmonRezaBD/Data-Analyzer)![GitHub repo size](https://img.shields.io/github/repo-size/EmonRezaBD/Data-Analyzer?color=red) 
 Before Scan            |  After Scan
 :-------------------------:|:-------------------------:
-![Fig. 1](https://github.com/EmonRezaBD/Thermique/blob/main/Before%20scan.png) | ![Fig. 2](hhttps://github.com/EmonRezaBD/Thermique/blob/main/After%20scan.png)
+![Fig. 1](https://github.com/EmonRezaBD/Thermique/blob/main/BeforeScan.PNG) | ![Fig. 2](https://github.com/EmonRezaBD/Thermique/blob/main/AfterSacn.PNG)
+. | kkkk
 
-## Project is ongoing
+This codebase was cloned from groupgets, and modified for personal necessities.
+
 #Link : https://mist.ac.bd/blog/cse/post/thermique_temperature_detection_using_thermal_image_for_covid_19_screening-149
-
 ## raspberrypi_video [Edited]
 
 0. This is for raspberrypi_video only. raspberrypi_qt was not used in final production.
